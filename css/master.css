@@ -1,0 +1,166 @@
+body {
+    margin:0;
+    text-align: center;
+    font-family: Nunito, serif;
+    font-size: 2rem;
+}
+
+.top-container {
+    height: 100vh ;
+    background-color: lightcyan;
+    position: relative;
+    padding-top:100px;
+    margin-bottom:20px;
+}
+
+h1 {
+    color: #66BFBF;
+    font-family: Dancing Script, serif;
+    font-size: 6rem;
+    margin: 50px auto 0 auto;
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: open Sans, serif;
+    font-size: 2rem;
+    font-weight: normal;
+    margin: 3rem 0 0 0;
+}
+
+h3 {
+    color: #11999E;
+}
+
+p{
+    line-height: 2;
+    font-size: 1.5rem;
+}
+
+a{
+    color: #11999E;
+    font-family: open Sans, serif;
+    font-size: 1rem;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #EAF6F6;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+.top-cloud{
+    position: absolute;
+    right:500px;
+    bottom: 950px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left:500px;
+    top:400px
+}
+
+.mountain{
+    position: absolute;
+    bottom:200px;
+    left: 600px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.profile{
+    width: 40%;
+    margin: 30px auto 30px auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.skills{
+    margin: 30px auto 30px auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+hr{
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 5%
+}
+
+.gaara-img{
+    border-radius: 100%;
+}
+
+.sap-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.python-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.uipath-img{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+/*.sap-description{
+    clear: left;
+}*/
+
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 25px;
+  background: #37a4ed;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #ffdd00;
+  text-decoration: none;
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 30px 0 10px;
+}
+
+.contact-message{
+    margin: 20px auto 80px auto;
+}
+
+.contact-me{
+    width: 40%;
+    margin: 30px auto 30px auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.footer-link{
+    color: #11999E;
+}
+
+.copy-right{
+    font-size: 0.75rem;
+    color: #EAF6F6;
+    padding:10px 0 5px 0;
+}
